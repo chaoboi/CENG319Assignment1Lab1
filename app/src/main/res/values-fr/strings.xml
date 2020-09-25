@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onCreate">sur créer exécuté</string>
+    <string name="onStart">sur début exécuté</string>
+    <string name="onStop">sur Arrêtez exécuté</string>
+    <string name="onDestroy">sur détruire exécuté</string>
+
+
+</resources>

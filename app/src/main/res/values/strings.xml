@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">davidPham_CENG319Lab1_Ex1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="onCreate">on Create executed</string>
+    <string name="onStart">on Start executed</string>
+    <string name="onStop">on Stop executed</string>
+    <string name="onDestroy">on Destroy executed</string>
+</resources>
