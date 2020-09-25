@@ -7,7 +7,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 public class AIActivity extends AppCompatActivity {
-
+//commenting for the third commit
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
